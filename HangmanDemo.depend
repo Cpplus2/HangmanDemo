@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592979202 source:c:\users\naimul hp spectre\cpp_projects\hangmandemo\word.cpp
+	"Word.h"
+
+1592980613 c:\users\naimul hp spectre\cpp_projects\hangmandemo\word.h
+	<string>
+
+1592983646 source:c:\users\naimul hp spectre\cpp_projects\hangmandemo\main.cpp
+	<iostream>
+	<limits>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"Word.h"
+
